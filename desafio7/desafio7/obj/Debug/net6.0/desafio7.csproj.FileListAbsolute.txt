@@ -1,0 +1,17 @@
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\bin\Debug\net6.0\desafio7.exe
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\bin\Debug\net6.0\desafio7.deps.json
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\bin\Debug\net6.0\desafio7.runtimeconfig.json
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\bin\Debug\net6.0\desafio7.dll
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\bin\Debug\net6.0\desafio7.pdb
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.csproj.AssemblyReference.cache
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.AssemblyInfoInputs.cache
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.AssemblyInfo.cs
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.csproj.CoreCompileInputs.cache
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.dll
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\refint\desafio7.dll
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.pdb
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.genruntimeconfig.cache
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\ref\desafio7.dll
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\bin\Debug\net6.0\Npgsql.dll
+D:\desafi C#\desafio7\Desafio_07\desafio7\desafio7\obj\Debug\net6.0\desafio7.csproj.CopyComplete
